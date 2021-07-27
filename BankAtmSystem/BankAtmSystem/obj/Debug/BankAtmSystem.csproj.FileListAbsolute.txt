@@ -1,0 +1,14 @@
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.exe.config
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.exe
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.pdb
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.csprojAssemblyReference.cache
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.exe
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.pdb
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.exe.config
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.exe
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\bin\Debug\BankAtmSystem.pdb
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.csprojAssemblyReference.cache
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.csproj.CoreCompileInputs.cache
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.exe
+C:\Users\chang\OneDrive - Eduvo Sdn. Bhd\Desktop\visual studio\assignment\BankAtmSystem\BankAtmSystem\obj\Debug\BankAtmSystem.pdb
